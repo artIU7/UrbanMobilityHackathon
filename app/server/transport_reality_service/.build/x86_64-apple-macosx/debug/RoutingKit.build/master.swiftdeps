@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "a2a8d729d67f145d307fe24527426363"
-build_time: [1618559800, 375042000]
-inputs:
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift": [1618559779, 671116175]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift": [1618559779, 700644883]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift": [1618559779, 671471135]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift": [1618559779, 671764328]

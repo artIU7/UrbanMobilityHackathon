@@ -1,4 +1,0 @@
-module PostgresNIO {
-    header "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/PostgresNIO.build/PostgresNIO-Swift.h"
-    requires objc
-}

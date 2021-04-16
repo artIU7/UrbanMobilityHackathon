@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "4a82c68a61f69cf776c9bc8cea805772"
-build_time: [1618559884, 382262000]
-inputs:
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift": [1618559776, 502078121]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1618559776, 502379415]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1618559776, 502631349]

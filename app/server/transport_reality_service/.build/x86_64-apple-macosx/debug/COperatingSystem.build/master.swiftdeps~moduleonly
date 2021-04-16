@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "2e70a0a85892f28f57be5b38e22e7016"
-build_time: [1618559802, 41265000]
-inputs:
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/vapor/Sources/COperatingSystem/Exports.swift": [1618559775, 150791450]

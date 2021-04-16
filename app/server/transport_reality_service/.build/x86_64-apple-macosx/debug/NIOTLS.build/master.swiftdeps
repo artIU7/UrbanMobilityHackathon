@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "a1eb3418dfbdb8e137c916d67e84fbb8"
-build_time: [1618559913, 198824000]
-inputs:
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1618559776, 513878911]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1618559776, 514251240]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1618559776, 514440065]

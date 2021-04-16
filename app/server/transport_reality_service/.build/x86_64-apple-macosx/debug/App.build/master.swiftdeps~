@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "49fefbd03eb4787041cb9646ff9d4720"
-build_time: [1618562060, 827216000]
-inputs:
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/Sources/App/Controllers/RouteController.swift": [1618561928, 369142624]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/Sources/App/Migrations/CreateRoute.swift": [1618562038, 446862466]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/Sources/App/Models/Route.swift": [1618562005, 470775431]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/Sources/App/configure.swift": [1618561699, 372834831]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/Sources/App/routes.swift": [1618560895, 114706653]

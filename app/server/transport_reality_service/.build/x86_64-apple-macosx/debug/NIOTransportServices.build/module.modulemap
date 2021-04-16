@@ -1,4 +1,0 @@
-module NIOTransportServices {
-    header "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/NIOTransportServices.build/NIOTransportServices-Swift.h"
-    requires objc
-}

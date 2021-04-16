@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "1dcf5600a826f45347efc5011a1238a8"
-build_time: [1618559800, 375428000]
-inputs:
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-log/Sources/Logging/Locks.swift": [1618559773, 854264650]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": [1618559773, 854988781]
-  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-log/Sources/Logging/Logging.swift": [1618559773, 898020482]

@@ -1,4 +1,0 @@
-module NIOTestUtils {
-    header "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/NIOTestUtils-Swift.h"
-    requires objc
-}
