@@ -1,0 +1,4 @@
+module SQLKit {
+    header "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLKit-Swift.h"
+    requires objc
+}

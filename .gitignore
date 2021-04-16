@@ -1,0 +1,5 @@
+/app/client/transport_reality_app/Pods/*
+/app/server/transport_reality_service/Dockerfile
+/app/server/transport_reality_service/Package.resolved
+/app/server/transport_reality_service/docker-compose.yml
+/presentation/video/*

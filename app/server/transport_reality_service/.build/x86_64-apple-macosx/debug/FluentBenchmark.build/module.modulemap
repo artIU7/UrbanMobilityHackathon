@@ -1,0 +1,4 @@
+module FluentBenchmark {
+    header "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/FluentBenchmark.build/FluentBenchmark-Swift.h"
+    requires objc
+}

@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "4f90aa63da361ddd8b7fd7cbde82b309"
+build_time: [1618559929, 774998000]
+inputs:
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift": [1618559778, 614906556]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift": [1618559778, 615411720]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift": [1618559778, 615806701]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift": [1618559778, 616045418]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift": [1618559778, 616374689]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift": [1618559778, 616647752]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift": [1618559778, 617126659]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift": [1618559778, 618032125]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift": [1618559778, 618311146]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift": [1618559778, 618513217]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift": [1618559778, 618679243]

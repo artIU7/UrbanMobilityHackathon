@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "965774a00fbdd0a24bd59c2e26c70221"
+build_time: [1618559913, 198824000]
+inputs:
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1618559776, 506052413]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1618559776, 506544944]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1618559776, 506992290]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1618559776, 507247061]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1618559776, 507950171]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1618559776, 508247442]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift": [1618559776, 508577338]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1618559776, 509406928]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift": [1618559776, 509781113]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift": [1618559776, 510014214]

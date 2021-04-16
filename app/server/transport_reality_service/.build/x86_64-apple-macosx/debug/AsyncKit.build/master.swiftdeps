@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "448452b6108d89d2577d349420276e83"
+build_time: [1618559946, 479727000]
+inputs:
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolError.swift": [1618559775, 566173725]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolItem.swift": [1618559775, 566484759]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolSource.swift": [1618559775, 566872814]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopConnectionPool.swift": [1618559775, 567469077]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopGroupConnectionPool.swift": [1618559775, 568220903]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Flatten.swift": [1618559775, 568551922]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Future.swift": [1618559775, 568853093]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Collection+Flatten.swift": [1618559775, 569272551]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue+Sequence.swift": [1618559775, 569510342]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue.swift": [1618559775, 569719900]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Collection.swift": [1618559775, 569908011]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Optional.swift": [1618559775, 570281301]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Throwing.swift": [1618559775, 570500193]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Transform.swift": [1618559775, 570661892]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/FutureExtensions.swift": [1618559775, 570830254]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/FutureOperators.swift": [1618559775, 571115234]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/async-kit/Sources/AsyncKit/Exports.swift": [1618559775, 571305505]

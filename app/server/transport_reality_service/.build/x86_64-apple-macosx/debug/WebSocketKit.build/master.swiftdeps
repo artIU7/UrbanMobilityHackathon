@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "900d0f240d58795e0ee40fa666927155"
+build_time: [1618559937, 667561000]
+inputs:
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": [1618559778, 357711712]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPInitialRequestHandler.swift": [1618559778, 358022229]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift": [1618559778, 358221536]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": [1618559778, 358441049]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift": [1618559778, 358645916]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift": [1618559778, 358813718]

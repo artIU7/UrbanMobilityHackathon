@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/master.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/leaf/Sources/Leaf/Application+Leaf.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Application+Leaf.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Application+Leaf.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Application+Leaf~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Application+Leaf.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/leaf/Sources/Leaf/Exports.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Exports.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Exports.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Exports.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/leaf/Sources/Leaf/LeafEncoder.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/LeafEncoder.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/LeafEncoder.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/LeafEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/LeafEncoder.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/leaf/Sources/Leaf/LeafRenderer+ViewRenderer.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/LeafRenderer+ViewRenderer.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/LeafRenderer+ViewRenderer.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/LeafRenderer+ViewRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/LeafRenderer+ViewRenderer.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/leaf/Sources/Leaf/Request+Leaf.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Request+Leaf.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Request+Leaf.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Request+Leaf~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/Leaf.build/Request+Leaf.swiftdeps"
+  }
+}

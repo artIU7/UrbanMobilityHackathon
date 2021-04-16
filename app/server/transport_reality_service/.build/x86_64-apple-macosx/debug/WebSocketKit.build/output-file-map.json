@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/master.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/Exports.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/Exports.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/Exports.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPInitialRequestHandler.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/HTTPInitialRequestHandler.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/HTTPInitialRequestHandler.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/HTTPInitialRequestHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/HTTPInitialRequestHandler.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocket+Connect.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocket+Connect.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocket+Connect~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocket+Connect.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocket.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocket.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocket~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocket.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocketClient.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocketClient.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocketClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocketClient.swiftdeps"
+  },
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift": {
+    "dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocketHandler.d",
+    "object": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocketHandler.swift.o",
+    "swiftmodule": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocketHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/x86_64-apple-macosx/debug/WebSocketKit.build/WebSocketHandler.swiftdeps"
+  }
+}

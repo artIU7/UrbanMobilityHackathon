@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "95a0828cbcf6a877694608a77e048f0e"
+build_time: [1618559971, 108296000]
+inputs:
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseQuery+SQL.swift": [1618559774, 468637405]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseSchema+SQL.swift": [1618559774, 468806929]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/fluent-kit/Sources/FluentSQL/Exports.swift": [1618559774, 468973701]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model.swift": [1618559774, 469292917]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLJSONColumnPath.swift": [1618559774, 469473071]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQueryConverter.swift": [1618559774, 469950444]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLSchemaConverter.swift": [1618559774, 470214787]
+  "/Users/brazilec22/Documents/UrbanMobilityHackathon/app/server/transport_reality_service/.build/checkouts/fluent-kit/Sources/FluentSQL/Utilities.swift": [1618559774, 470726716]
