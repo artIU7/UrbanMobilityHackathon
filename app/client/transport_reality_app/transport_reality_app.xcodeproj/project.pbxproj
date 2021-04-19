@@ -3,28 +3,45 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B77B673A262A143C002E2F17 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B6739262A143C002E2F17 /* WelcomeViewController.swift */; };
+		B77B6749262A2065002E2F17 /* Template.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B77B6748262A2065002E2F17 /* Template.storyboard */; };
+		B77B674E262A22C7002E2F17 /* TabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B674D262A22C7002E2F17 /* TabViewController.swift */; };
+		B77B6752262A2376002E2F17 /* TransportMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B6751262A2376002E2F17 /* TransportMapView.swift */; };
+		B77B6757262A239A002E2F17 /* TourViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B6756262A239A002E2F17 /* TourViewController.swift */; };
+		B77B675B262A23AF002E2F17 /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B675A262A23AF002E2F17 /* SettingsController.swift */; };
+		B77B6765262A4A1F002E2F17 /* LayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B6764262A4A1F002E2F17 /* LayerViewController.swift */; };
+		B77B6769262A5AF8002E2F17 /* HeleprTouchGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B6768262A5AF8002E2F17 /* HeleprTouchGesture.swift */; };
+		B77B676C262A63CE002E2F17 /* Helper+DrawRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B676B262A63CE002E2F17 /* Helper+DrawRoute.swift */; };
+		B77B6770262A7215002E2F17 /* Geocoder+Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B676F262A7215002E2F17 /* Geocoder+Helper.swift */; };
+		B77B6776262A7E9A002E2F17 /* RoutedComputed.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B6775262A7E9A002E2F17 /* RoutedComputed.swift */; };
 		B7B9E81E26297A2F001757C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B9E81D26297A2F001757C8 /* AppDelegate.swift */; };
 		B7B9E82026297A2F001757C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B9E81F26297A2F001757C8 /* SceneDelegate.swift */; };
-		B7B9E82226297A2F001757C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B9E82126297A2F001757C8 /* ViewController.swift */; };
-		B7B9E82526297A2F001757C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7B9E82326297A2F001757C8 /* Main.storyboard */; };
 		B7B9E82726297A31001757C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7B9E82626297A31001757C8 /* Assets.xcassets */; };
-		B7B9E82A26297A31001757C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7B9E82826297A31001757C8 /* LaunchScreen.storyboard */; };
 		D4499B9350DDF81516750F82 /* Pods_transport_reality_app.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AEF7077C0393AC01B8E04C2B /* Pods_transport_reality_app.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		AEF7077C0393AC01B8E04C2B /* Pods_transport_reality_app.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_transport_reality_app.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B75D9115262CD71E002E7F8A /* bus.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = bus.m4a; sourceTree = "<group>"; };
+		B77B6739262A143C002E2F17 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		B77B6748262A2065002E2F17 /* Template.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Template.storyboard; sourceTree = "<group>"; };
+		B77B674D262A22C7002E2F17 /* TabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewController.swift; sourceTree = "<group>"; };
+		B77B6751262A2376002E2F17 /* TransportMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransportMapView.swift; sourceTree = "<group>"; };
+		B77B6756262A239A002E2F17 /* TourViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TourViewController.swift; sourceTree = "<group>"; };
+		B77B675A262A23AF002E2F17 /* SettingsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
+		B77B6764262A4A1F002E2F17 /* LayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayerViewController.swift; sourceTree = "<group>"; };
+		B77B6768262A5AF8002E2F17 /* HeleprTouchGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeleprTouchGesture.swift; sourceTree = "<group>"; };
+		B77B676B262A63CE002E2F17 /* Helper+DrawRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Helper+DrawRoute.swift"; sourceTree = "<group>"; };
+		B77B676F262A7215002E2F17 /* Geocoder+Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Geocoder+Helper.swift"; sourceTree = "<group>"; };
+		B77B6775262A7E9A002E2F17 /* RoutedComputed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoutedComputed.swift; sourceTree = "<group>"; };
 		B7B9E81A26297A2F001757C8 /* transport_reality_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = transport_reality_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7B9E81D26297A2F001757C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7B9E81F26297A2F001757C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		B7B9E82126297A2F001757C8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		B7B9E82426297A2F001757C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B7B9E82626297A31001757C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B7B9E82926297A31001757C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B7B9E82B26297A31001757C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CA347C5B1788DCA3B62317D9 /* Pods-transport_reality_app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-transport_reality_app.release.xcconfig"; path = "Target Support Files/Pods-transport_reality_app/Pods-transport_reality_app.release.xcconfig"; sourceTree = "<group>"; };
 		FFD110E0AEA7E4FDF37FCEEE /* Pods-transport_reality_app.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-transport_reality_app.debug.xcconfig"; path = "Target Support Files/Pods-transport_reality_app/Pods-transport_reality_app.debug.xcconfig"; sourceTree = "<group>"; };
@@ -42,6 +59,76 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B77B6733262A1355002E2F17 /* SettingAppView */ = {
+			isa = PBXGroup;
+			children = (
+				B77B675A262A23AF002E2F17 /* SettingsController.swift */,
+			);
+			path = SettingAppView;
+			sourceTree = "<group>";
+		};
+		B77B6734262A1358002E2F17 /* TourMapView */ = {
+			isa = PBXGroup;
+			children = (
+				B77B6756262A239A002E2F17 /* TourViewController.swift */,
+			);
+			path = TourMapView;
+			sourceTree = "<group>";
+		};
+		B77B6735262A135B002E2F17 /* TransportMapView */ = {
+			isa = PBXGroup;
+			children = (
+				B77B6774262A7E89002E2F17 /* ComputedRoute */,
+				B77B6767262A5ADD002E2F17 /* HelperGestureDelegate */,
+				B77B6763262A49FF002E2F17 /* LayerViewConfig */,
+				B77B6750262A2351002E2F17 /* HelperTabViewController */,
+				B77B6751262A2376002E2F17 /* TransportMapView.swift */,
+				B77B676B262A63CE002E2F17 /* Helper+DrawRoute.swift */,
+				B77B676F262A7215002E2F17 /* Geocoder+Helper.swift */,
+			);
+			path = TransportMapView;
+			sourceTree = "<group>";
+		};
+		B77B6738262A141E002E2F17 /* WelcomeAppView */ = {
+			isa = PBXGroup;
+			children = (
+				B77B6739262A143C002E2F17 /* WelcomeViewController.swift */,
+			);
+			path = WelcomeAppView;
+			sourceTree = "<group>";
+		};
+		B77B6750262A2351002E2F17 /* HelperTabViewController */ = {
+			isa = PBXGroup;
+			children = (
+				B77B674D262A22C7002E2F17 /* TabViewController.swift */,
+			);
+			path = HelperTabViewController;
+			sourceTree = "<group>";
+		};
+		B77B6763262A49FF002E2F17 /* LayerViewConfig */ = {
+			isa = PBXGroup;
+			children = (
+				B77B6764262A4A1F002E2F17 /* LayerViewController.swift */,
+			);
+			path = LayerViewConfig;
+			sourceTree = "<group>";
+		};
+		B77B6767262A5ADD002E2F17 /* HelperGestureDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				B77B6768262A5AF8002E2F17 /* HeleprTouchGesture.swift */,
+			);
+			path = HelperGestureDelegate;
+			sourceTree = "<group>";
+		};
+		B77B6774262A7E89002E2F17 /* ComputedRoute */ = {
+			isa = PBXGroup;
+			children = (
+				B77B6775262A7E9A002E2F17 /* RoutedComputed.swift */,
+			);
+			path = ComputedRoute;
+			sourceTree = "<group>";
+		};
 		B7B9E81126297A2F001757C8 = {
 			isa = PBXGroup;
 			children = (
@@ -63,13 +150,16 @@
 		B7B9E81C26297A2F001757C8 /* transport_reality_app */ = {
 			isa = PBXGroup;
 			children = (
+				B77B6738262A141E002E2F17 /* WelcomeAppView */,
+				B77B6735262A135B002E2F17 /* TransportMapView */,
+				B77B6734262A1358002E2F17 /* TourMapView */,
+				B77B6733262A1355002E2F17 /* SettingAppView */,
 				B7B9E81D26297A2F001757C8 /* AppDelegate.swift */,
+				B75D9115262CD71E002E7F8A /* bus.m4a */,
 				B7B9E81F26297A2F001757C8 /* SceneDelegate.swift */,
-				B7B9E82126297A2F001757C8 /* ViewController.swift */,
-				B7B9E82326297A2F001757C8 /* Main.storyboard */,
 				B7B9E82626297A31001757C8 /* Assets.xcassets */,
-				B7B9E82826297A31001757C8 /* LaunchScreen.storyboard */,
 				B7B9E82B26297A31001757C8 /* Info.plist */,
+				B77B6748262A2065002E2F17 /* Template.storyboard */,
 			);
 			path = transport_reality_app;
 			sourceTree = "<group>";
@@ -80,7 +170,6 @@
 				FFD110E0AEA7E4FDF37FCEEE /* Pods-transport_reality_app.debug.xcconfig */,
 				CA347C5B1788DCA3B62317D9 /* Pods-transport_reality_app.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -151,9 +240,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B7B9E82A26297A31001757C8 /* LaunchScreen.storyboard in Resources */,
+				B77B6749262A2065002E2F17 /* Template.storyboard in Resources */,
 				B7B9E82726297A31001757C8 /* Assets.xcassets in Resources */,
-				B7B9E82526297A2F001757C8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -206,32 +294,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B7B9E82226297A2F001757C8 /* ViewController.swift in Sources */,
+				B77B6765262A4A1F002E2F17 /* LayerViewController.swift in Sources */,
+				B77B674E262A22C7002E2F17 /* TabViewController.swift in Sources */,
+				B77B6770262A7215002E2F17 /* Geocoder+Helper.swift in Sources */,
+				B77B6776262A7E9A002E2F17 /* RoutedComputed.swift in Sources */,
+				B77B6769262A5AF8002E2F17 /* HeleprTouchGesture.swift in Sources */,
+				B77B676C262A63CE002E2F17 /* Helper+DrawRoute.swift in Sources */,
+				B77B6752262A2376002E2F17 /* TransportMapView.swift in Sources */,
+				B77B673A262A143C002E2F17 /* WelcomeViewController.swift in Sources */,
+				B77B675B262A23AF002E2F17 /* SettingsController.swift in Sources */,
 				B7B9E81E26297A2F001757C8 /* AppDelegate.swift in Sources */,
+				B77B6757262A239A002E2F17 /* TourViewController.swift in Sources */,
 				B7B9E82026297A2F001757C8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		B7B9E82326297A2F001757C8 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B7B9E82426297A2F001757C8 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		B7B9E82826297A31001757C8 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B7B9E82926297A31001757C8 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		B7B9E82C26297A31001757C8 /* Debug */ = {
@@ -359,6 +437,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9RCKEM6H93;
 				INFOPLIST_FILE = transport_reality_app/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -379,6 +458,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9RCKEM6H93;
 				INFOPLIST_FILE = transport_reality_app/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
